@@ -9,3 +9,6 @@ In this three person group project completed over seven weeks, we initially set 
 - seaborn
 - scipy
 - scikit-learn
+
+
+Access notebook here: https://nbviewer.jupyter.org/github/dania6789/what-movie-should-you-watch/blob/main/movie_reccomender_system.ipynb
