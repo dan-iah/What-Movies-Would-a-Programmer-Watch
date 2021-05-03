@@ -10,4 +10,4 @@ In this three person group project completed over seven weeks, we initially set 
 - SciPy
 - Scikit-Learn
 
-Access notebook here: https://nbviewer.jupyter.org/github/dania6789/what-movie-should-you-watch/blob/main/movie_reccomender_system.ipynb
+Access notebook here: https://nbviewer.jupyter.org/github/dania6789/What-Movie-Would-a-Doctor-Watch/blob/main/movie_reccomender_system.ipynb
