@@ -8,6 +8,7 @@ In this three person group project completed over seven weeks, we initially set 
 **Libraries used:**
 - Pandas
 - NumPy
+- Regex
 - Matplotlib
 - Seaborn
 - SciPy
