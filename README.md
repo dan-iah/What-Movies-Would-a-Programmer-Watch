@@ -1,4 +1,4 @@
-# <div align="center"> What-Movie-Would-A-Programmer-Watch? </div>
+# <div align="center"> What-Movies-Would-A-Programmer-Watch? </div>
 
 [Access notebook here for accurate display of visualizations](https://nbviewer.jupyter.org/github/dania6789/What-Movie-Would-a-Programmer-Watch/blob/main/movie-reccomender-system.ipynb)
 
