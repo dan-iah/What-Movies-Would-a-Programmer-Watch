@@ -20,6 +20,6 @@ Using the MovieLens dataset, we performed data wrangling through merging informa
 - Scikit-Learn
 
 ## Areas of Improvement
-Looking back, there is much improvement that could have been done in this project such as applying dimensionality reduction techniques to get insight on which variables are contributing most to user's movie genre choice, as well as not viewing the data before deciding on the ML models as this increases the VC dimensions and can be the result of the low accuracy scores on out of sample data. Finally, the MovieLense dataset could have been used in conjunction with other available datasets that can offer more useful variables that can potentially be helpful for building the recommendation system.
+Looking back, there are quite a few areas of improvement that could have led to more accurate outcomes. We can start by applying dimensionality reduction techniques to get insight into which variables are contributing most to a user's movie genre choice. One setback was that we viewed the data and subsequently decided on the ML models to use. This increases the VC dimension and can be the result of the low accuracy scores obtained on the out of sample data. Finally, the MovieLense dataset could have been used in conjunction with other available movie viewer datasets that can contain other useful variables that can potentially be helpful for building the recommendation system.
 
 
