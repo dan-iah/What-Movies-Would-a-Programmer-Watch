@@ -10,14 +10,7 @@ In this three person project completed over the course of seven weeks, we initia
 ## Approach
 Using the MovieLens dataset, we performed data wrangling through merging information from several data files and reformatting the information in the desired layout using pandas and numpy. We created visualizations to explore trends and variable relationships using seaborn and matplotlib. In the final stage, we concluded we needed a greater amount of data to create a reccomendation system based solely on peoples' occupations, realising that run-time, age, geographic location, etc could serve as confounding variables. We instead decided to test a few select machine learning models on the data to predict genres based on: users' occupation, age, gender, and past user ratings.   
 
-**Libraries used:**
-- Pandas
-- NumPy
-- Regex
-- Matplotlib
-- Seaborn
-- SciPy
-- Scikit-Learn
+Libraries used: Pandas, NumPy, Regex, Matplotlib, Seaborn, SciPy, Scikit-Learn
 
 ## Areas of Improvement
 Looking back, there are quite a few areas of improvement that could have led to more accurate results:
