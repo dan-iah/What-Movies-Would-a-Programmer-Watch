@@ -21,7 +21,7 @@ Using the MovieLens dataset, we performed data wrangling through merging informa
 
 ## Areas of Improvement
 Looking back, there are quite a few areas of improvement that could have led to more accurate results:
-- We can start by applying dimensionality reduction techniques to get insight into which variables are contributing most to a user's movie genre choice. 
+- We can start by applying dimensionality reduction techniques to get insight into which variables are contributing most (and which are contributing least) to a user's movie genre choice. 
 - One setback was that we viewed the data and subsequently decided on the ML models to use. This increases the VC dimension and can be the result of the low accuracy scores obtained on the out of sample data. Therefore, the ML model should be chosen/tested (e.g. using cv) based on general info known about the dataset, but not through analysing the raw data. 
 - Finally, the MovieLense dataset can be used in conjunction with other available movie viewer datasets that can contain other useful variables to potentially build a more robust recommendation system.
 
